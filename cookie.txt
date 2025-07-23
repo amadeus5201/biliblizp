@@ -1,0 +1,12 @@
+# B站Cookie文件
+# 请将您的B站cookie信息粘贴到这里
+# 格式：name=value; name2=value2; ...
+# 例如：SESSDATA=xxx; bili_jct=xxx; ...
+# 重要：必须包含bili_jct参数，用于CSRF验证
+# 获取方法：
+# 1. 登录B站网页版
+# 2. 按F12打开开发者工具
+# 3. 在Console中输入：document.cookie
+# 4. 复制包含SESSDATA、bili_jct、DedeUserID等参数的完整cookie
+# 请替换为您的实际cookie
+DedeUserID=xx

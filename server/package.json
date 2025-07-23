@@ -1,0 +1,14 @@
+{
+  "name": "bilibili-proxy-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "axios": "^1.6.2",
+    "cors": "^2.8.5"
+  }
+} 
